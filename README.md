@@ -1,4 +1,4 @@
-# Django GraphQL Auth
+# Django GraphQL Auth v 0.3.16 forked
 
 [Django](https://github.com/django/django) registration and authentication with GraphQL.
 
